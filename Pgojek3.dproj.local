@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/30 21:31:45.000.601,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/30 21:32:48.000.853,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Ulogin1.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022/12/30 21:32:48.000.853,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Ulogin1.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/30 21:39:31.000.442,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/30 21:40:15.000.064,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Udekatt.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/30 21:40:15.000.064,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Udekatt.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022/12/30 21:41:54.000.783,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/30 21:44:15.000.690,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Uterdekattt.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022/12/30 21:44:15.000.690,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Uterdekattt.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/30 21:45:01.000.545,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/30 21:46:26.000.679,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Umenu3.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/30 21:46:26.000.679,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Umenu3.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022/12/30 21:47:08.000.122,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/30 21:50:02.000.910,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Ubayar1.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/30 21:50:02.000.910,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Ubayar1.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022/12/30 21:51:27.000.814,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Ulogin1.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Ulogin1.dfm</Transaction>
+    <Transaction>2022/12/30 21:51:27.000.814,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Ulogin1.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Ulogin1.pas</Transaction>
+    <Transaction>2022/12/30 21:51:35.000.938,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Umenu3.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Umenu3.pas</Transaction>
+    <Transaction>2022/12/30 21:51:35.000.938,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Umenu3.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Umenu3.dfm</Transaction>
+    <Transaction>2022/12/30 21:51:37.000.635,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Ubayar1.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Ubayar1.pas</Transaction>
+    <Transaction>2022/12/30 21:51:37.000.635,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Ubayar1.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Ubayar1.dfm</Transaction>
+    <Transaction>2022/12/30 21:51:39.000.579,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Uterdekattt.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Uterdekattt.pas</Transaction>
+    <Transaction>2022/12/30 21:51:39.000.579,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Uterdekattt.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Uterdekattt.dfm</Transaction>
+    <Transaction>2022/12/30 21:51:41.000.095,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Udekatt.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Udekatt.pas</Transaction>
+    <Transaction>2022/12/30 21:51:41.000.095,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Udekatt.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Udekatt.dfm</Transaction>
+    <Transaction>2022/12/30 21:51:51.000.333,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Pgojek3.dproj=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2022/12/31 09:04:38.000.115,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Unit1.pas</Transaction>
+    <Transaction>2022/12/31 09:07:08.000.478,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Unit2.pas</Transaction>
+    <Transaction>2022/12/31 09:07:55.000.666,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Unit2.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Uselesai1.pas</Transaction>
+    <Transaction>2022/12/31 09:07:55.000.666,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Unit2.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Uselesai1.dfm</Transaction>
+    <Transaction>2022/12/31 09:20:27.000.283,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Ulogin1.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Ulog1.pas</Transaction>
+    <Transaction>2022/12/31 09:20:27.000.283,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Ulogin1.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek3\Ulog1.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Ubayar1.pas"/>
+    <File Path="Ubayar1.dfm"/>
+    <File Path="Udekatt.pas"/>
+    <File Path="Udekatt.dfm"/>
+    <File Path="Ulog1.pas"/>
+    <File Path="Ulog1.dfm"/>
+    <File Path="Uselesai1.pas"/>
+    <File Path="Uselesai1.dfm"/>
+    <File Path="Umenu3.pas"/>
+    <File Path="Umenu3.dfm"/>
+    <File Path="Uterdekattt.pas"/>
+    <File Path="Uterdekattt.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

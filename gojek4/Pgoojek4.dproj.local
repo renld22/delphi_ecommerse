@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/31 13:51:37.000.338,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/31 13:53:05.000.095,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Ulog3.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/31 13:53:05.000.095,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Ulog3.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022/12/31 13:54:37.000.048,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek4\Ulog3.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Ulog3.pas</Transaction>
+    <Transaction>2022/12/31 13:54:37.000.048,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek4\Ulog3.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Ulog3.dfm</Transaction>
+    <Transaction>2022/12/31 13:54:55.000.407,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\gojek4\Pgoojek4.dproj=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
